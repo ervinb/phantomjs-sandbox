@@ -1,6 +1,6 @@
 # phantomjs-sandbox
 
-A companion repository for [this blog post](https://ervinb.github.io/2016/12/22/portable-build-environments-with-docker/), about making reusable build
+A companion repository for [this blog post](https://ervinb.github.io/2016/12/22/portable-build-environments-with-docker.html), about making reusable build
 environments for compiling stuff from source with Docker.
 
 ## Run!
